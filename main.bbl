@@ -1,0 +1,2535 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{apa}{apa}
+    \entry{aleamoni1980}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=1995d0af0945660d1dd5616cfe845290}{Aleamoni}{A\bibinitperiod}{L.\bibnamedelimi M.}{L\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d4b7881ff62f2ff42383a10d93a21e7b}{Hexner}{H\bibinitperiod}{P.\bibnamedelimi Z.}{P\bibinitperiod\bibinitdelim Z\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2cdb4f1b4a2666d3323e9c27bf05b26f}
+      \strng{fullhash}{2cdb4f1b4a2666d3323e9c27bf05b26f}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1980}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Instructional Science}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{A review of the research on student evaluation and a report on the effect of different sets of instructions on student course and instructor evaluation}
+      \field{volume}{9}
+      \field{year}{1980}
+      \field{pages}{67\bibrangedash 84}
+      \range{pages}{18}
+    \endentry
+    \entry{alhija2009}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b4a5fbe8892c8442e85d1ded40bf2911}{Alhija}{A\bibinitperiod}{{F.\bibnamedelimi N.-A.}}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=82b675eba3d00732539778a528949ab3}{Fresko}{F\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e4ada462b678507475945e23564db2b6}
+      \strng{fullhash}{e4ada462b678507475945e23564db2b6}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Educational Evaluation}
+      \field{number}{1}
+      \field{title}{Student evaluation of instruction: what can be learned from students' written comments?}
+      \field{volume}{35}
+      \field{year}{2009}
+      \field{pages}{37\bibrangedash 44}
+      \range{pages}{8}
+    \endentry
+    \entry{amernic2007}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=cbd860d7861bb39cf69bddca55be79e8}{Amernic}{A\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0cdc7dc30c2923b615da3f3754c336aa}{Russel}{R\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8ea584c2c299a190f7d697fd746628ed}{Tourish}{T\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b469b575a14d1debf3263956ce1be097}
+      \strng{fullhash}{97c751e4b4fd3056ada529fe18af3459}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Human Relations}
+      \field{number}{12}
+      \field{title}{The transformational leader as pedagogue, physician, architect, commander and saint: five root metaphors in {J}ack {W}elsh's letters to stockholders of {G}eneral {E}lectric}
+      \field{volume}{60}
+      \field{year}{2007}
+      \field{pages}{1839\bibrangedash 1872}
+      \range{pages}{34}
+    \endentry
+    \entry{badley2012}{book}{}
+      \name{editor}{2}{}{%
+        {{uniquename=0,hash=b6c8062376c6423d55536009f3ac5e0d}{Badley}{B\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2eaa66b0465fac37ace1c52dfd1d30e1}{Brummelen}{B\bibinitperiod}{H.\bibnamedelimi Van}{H\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {Wipf}%
+        {Stock Publishers, Eugene, OR}%
+      }
+      \strng{namehash}{3654decc9bfeca23274444b3af91ac40}
+      \strng{fullhash}{3654decc9bfeca23274444b3af91ac40}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Metaphors we teach by: how metaphors shape what we do in classrooms}
+      \field{year}{2012}
+    \endentry
+    \entry{beger2015}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e37df14b33e42f5a1de323f928e64a21}{Beger}{B\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=fc2e0b61899711fbdb6304322c8be490}{Sardinha}{S\bibinitperiod}{T.\bibnamedelimi B.}{T\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=d4c8149d9c38ea8cea11e1e82e7da50f}{Herrmann}{H\bibinitperiod}{J.\bibnamedelimi B.}{J\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{e37df14b33e42f5a1de323f928e64a21}
+      \strng{fullhash}{e37df14b33e42f5a1de323f928e64a21}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Metaphor in specialist discourse}
+      \field{series}{Metaphor in Language, Cognition and Communication}
+      \field{title}{Metaphors in psychology genres: Counseling vs. academic lectures}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{pages}{53\bibrangedash 78}
+      \range{pages}{26}
+    \endentry
+    \entry{bereiter2005}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6d2d1a1e8386ac29773dfed04e484b2e}{Bereiter}{B\bibinitperiod}{Carl}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Oxford, England}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6d2d1a1e8386ac29773dfed04e484b2e}
+      \strng{fullhash}{6d2d1a1e8386ac29773dfed04e484b2e}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2005}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781135644789}
+      \field{month}{04}
+      \field{title}{Education and {Mind} in the {Knowledge} {Age}}
+      \field{year}{2005}
+    \endentry
+    \entry{bergsten2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d6e4ce82dc944cffa90b1681b154534c}{Bergsten}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d6e4ce82dc944cffa90b1681b154534c}
+      \strng{fullhash}{d6e4ce82dc944cffa90b1681b154534c}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics Education Research Journal}
+      \field{number}{3}
+      \field{title}{Investigating quality of undergraduate lectures}
+      \field{volume}{19}
+      \field{year}{2007}
+      \field{pages}{48\bibrangedash 72}
+      \range{pages}{25}
+    \endentry
+    \entry{bessant2002}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e47282d71863b050d8a81092d1c0b7db}{Bessant}{B\bibinitperiod}{Judith}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e47282d71863b050d8a81092d1c0b7db}
+      \strng{fullhash}{e47282d71863b050d8a81092d1c0b7db}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Higher Education Policy and Management}
+      \field{number}{1}
+      \field{title}{Dawkins' higher education reforms and how metaphors work in policy making}
+      \field{volume}{24}
+      \field{year}{2002}
+      \field{pages}{87\bibrangedash 99}
+      \range{pages}{13}
+    \endentry
+    \entry{biggs2011}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b9743f99ae7e1b8a66f040ed5700fc3c}{Biggs}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=db1ac495ffb4be8184df3e01b03b9c40}{Tang}{T\bibinitperiod}{Catherine}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Maidenhead, England}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education (UK)}%
+      }
+      \strng{namehash}{bbb83f6c4e2c08dbdca77fccd2342b6b}
+      \strng{fullhash}{bbb83f6c4e2c08dbdca77fccd2342b6b}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2011}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780335242757}
+      \field{month}{09}
+      \field{title}{Teaching {For} {Quality} {Learning} {At} {University}}
+      \field{year}{2011}
+    \endentry
+    \entry{boaler2000}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1790f44ae8312a4737aff5b6914b6682}{Boaler}{B\bibinitperiod}{Jo}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1790f44ae8312a4737aff5b6914b6682}
+      \strng{fullhash}{1790f44ae8312a4737aff5b6914b6682}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2000}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0732-3123}
+      \field{journaltitle}{The Journal of Mathematical Behavior}
+      \field{month}{06}
+      \field{number}{4}
+      \field{shorttitle}{Mathematics from {Another} {World}}
+      \field{title}{Mathematics from {Another} {World}: {Traditional} {Communities} and the {Alienation} of {Learners}}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2016}
+      \field{volume}{18}
+      \field{year}{2000}
+      \field{pages}{379\bibrangedash 397}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/S0732-3123(00)00026-2
+      \endverb
+    \endentry
+    \entry{botha2009}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8fce37274c30b8db5789297a1a5f6273}{Botha}{B\bibinitperiod}{Elaine}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8fce37274c30b8db5789297a1a5f6273}
+      \strng{fullhash}{8fce37274c30b8db5789297a1a5f6273}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{South African Journal of Education}
+      \field{number}{4}
+      \field{title}{Why metaphor matters in education}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{29}
+      \field{year}{2009}
+      \field{pages}{431\bibrangedash 444}
+      \range{pages}{14}
+      \verb{url}
+      \verb http://www.scielo.org.za/scielo.php?pid=S0256-01002009000400001&script=sci_arttext&tlng=en
+      \endverb
+    \endentry
+    \entry{braskamp1981}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=fd1b12ee53d006f78201d8cfdbfe9e10}{Braskamp}{B\bibinitperiod}{L.\bibnamedelimi A.}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1d43dae95b6085e2ccf0e5c7c705e968}{Ory}{O\bibinitperiod}{J.\bibnamedelimi C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d834146720a6cc694f35c6dc16c455ae}{Piper}{P\bibinitperiod}{D.\bibnamedelimi M.}{D\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a38db9808e570d007fb2ed261b92d06d}
+      \strng{fullhash}{0c462f23be45cc5f6286250de3b970ee}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1981}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Educational Psychology}
+      \field{number}{1}
+      \field{title}{Student written comments: dimensions of instructional quality}
+      \field{volume}{73}
+      \field{year}{1981}
+      \field{pages}{65\bibrangedash 70}
+      \range{pages}{6}
+    \endentry
+    \entry{burgan2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=857096433869164ddbe69f2b6e4bbd5c}{Burgan}{B\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{857096433869164ddbe69f2b6e4bbd5c}
+      \strng{fullhash}{857096433869164ddbe69f2b6e4bbd5c}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Change: The Magazine of Higher Learning}
+      \field{number}{6}
+      \field{title}{In defence of lecturing}
+      \field{volume}{38}
+      \field{year}{2006}
+      \field{pages}{30\bibrangedash 34}
+      \range{pages}{5}
+    \endentry
+    \entry{cameron2003}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=453ae281c07277dd9a91ab7df27c2d29}{Cameron}{C\bibinitperiod}{Lynne}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Sydney, Australia}%
+      }
+      \list{publisher}{1}{%
+        {A\& C Black}%
+      }
+      \strng{namehash}{453ae281c07277dd9a91ab7df27c2d29}
+      \strng{fullhash}{453ae281c07277dd9a91ab7df27c2d29}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2003}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780826449405}
+      \field{month}{03}
+      \field{title}{Metaphor in {Educational} {Discourse}}
+      \field{year}{2003}
+    \endentry
+    \entry{casella2001}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=c7abc90e14f2761d9325ee092fda0de7}{Casella}{C\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=164f69ef8d6e381bde92dcc46f910791}{Berger}{B\bibinitperiod}{Roger\bibnamedelima L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Pacific Grove, CA}%
+      }
+      \list{publisher}{1}{%
+        {Duxbury Press}%
+      }
+      \strng{namehash}{4fdb280b7be5fba987da9a4b880edb24}
+      \strng{fullhash}{4fdb280b7be5fba987da9a4b880edb24}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2001}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd edition}
+      \field{isbn}{9780534243128}
+      \field{month}{06}
+      \field{title}{Statistical {Inference}}
+      \field{year}{2001}
+    \endentry
+    \entry{charteris-black2004}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=53ac2a5a8fd7de6453b7485296932760}{Charteris-Black}{C\bibinithyphendelim B\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan UK}%
+      }
+      \strng{namehash}{53ac2a5a8fd7de6453b7485296932760}
+      \strng{fullhash}{53ac2a5a8fd7de6453b7485296932760}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781403932921}
+      \field{title}{Corpus {Approaches} to {Critical} {Metaphor} {Analysis}}
+      \field{year}{2004}
+    \endentry
+    \entry{chen2006}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8612d4be01ec757f50945f295ecdbf85}{Chen}{C\bibinitperiod}{J.\bibnamedelimi M.}{J\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8612d4be01ec757f50945f295ecdbf85}
+      \strng{fullhash}{8612d4be01ec757f50945f295ecdbf85}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2006}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{note}{Minnesota Legal Studies Research Paper No. 06-30}
+      \field{title}{First Person Plural}
+      \field{year}{2006}
+    \endentry
+    \entry{claxton2013}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=584fa38932f1a0b752c2feb5825204c3}{Claxton}{C\bibinitperiod}{Guy}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Oneworld Publications}%
+      }
+      \strng{namehash}{584fa38932f1a0b752c2feb5825204c3}
+      \strng{fullhash}{584fa38932f1a0b752c2feb5825204c3}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781780744728}
+      \field{month}{10}
+      \field{shorttitle}{What's the {Point} of {School}?}
+      \field{title}{What's the {Point} of {School}?: {Rediscovering} the {Heart} of {Education}}
+      \field{year}{2013}
+    \endentry
+    \entry{cornelissen2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7861559533bf1009d4f47f1ed82a74fc}{Cornelissen}{C\bibinitperiod}{J.\bibnamedelimi P.}{J\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7861559533bf1009d4f47f1ed82a74fc}
+      \strng{fullhash}{7861559533bf1009d4f47f1ed82a74fc}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{Beyond compare: metaphor in organization theory}
+      \field{volume}{30}
+      \field{year}{2012}
+      \field{pages}{751\bibrangedash 754}
+      \range{pages}{4}
+    \endentry
+    \entry{crawley2015}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=beaf217e66e79e7babe91b3522af3cb3}{Crawley}{C\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Chichester, England}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{beaf217e66e79e7babe91b3522af3cb3}
+      \strng{fullhash}{beaf217e66e79e7babe91b3522af3cb3}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781118941119}
+      \field{shorttitle}{Statistics}
+      \field{title}{Statistics: an introduction using {R}}
+      \field{year}{2015}
+    \endentry
+    \entry{cummins1988}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=4d5617837e57414c2891a60c0d9b5767}{Cummins}{C\bibinitperiod}{D.\bibnamedelimi D.}{D\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=20063bac0a8d84f07950ba31947aa14d}{Kintsch}{K\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d5a27ffee1ecadab970ef4cc744cfa4d}{Weimer}{W\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9173cf2259947abee1b4ba284a8f26e9}
+      \strng{fullhash}{63dd642e89fc345d7e839f06e484971e}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{number}{4}
+      \field{title}{The role of understanding in solving word problems}
+      \field{volume}{20}
+      \field{year}{1988}
+      \field{pages}{405\bibrangedash 438}
+      \range{pages}{34}
+    \endentry
+    \entry{dawid1979}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f66597e3bf612e2cd4ae9af3326dcf68}{Dawid}{D\bibinitperiod}{A.\bibnamedelimi P.}{A\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f66597e3bf612e2cd4ae9af3326dcf68}
+      \strng{fullhash}{f66597e3bf612e2cd4ae9af3326dcf68}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Royal Statistical Society, Series B}
+      \field{number}{2}
+      \field{title}{Some misleading arguments involving conditional independence}
+      \field{volume}{41}
+      \field{year}{1979}
+      \field{pages}{249\bibrangedash 252}
+      \range{pages}{4}
+    \endentry
+    \entry{deignan2005}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e876a5b28470e465872e9c4e098ba61d}{Deignan}{D\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {J. Benjamins Pub}%
+      }
+      \strng{namehash}{e876a5b28470e465872e9c4e098ba61d}
+      \strng{fullhash}{e876a5b28470e465872e9c4e098ba61d}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{v. 6}
+      \field{series}{Converging evidence in language and communication research}
+      \field{title}{Metaphor and corpus linguistics}
+      \field{year}{2005}
+    \endentry
+    \entry{edwards1984}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=49e720395d347d9eeb2dcbee58658fcd}{Edwards}{E\bibinitperiod}{A.\bibnamedelimi W.\bibnamedelimi F.}{A\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press, Cambridge, England}%
+      }
+      \strng{namehash}{49e720395d347d9eeb2dcbee58658fcd}
+      \strng{fullhash}{49e720395d347d9eeb2dcbee58658fcd}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{1984}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Likelihood}
+      \field{year}{1984}
+    \endentry
+    \entry{epstein2016}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1814b5c96ac01b9048ad5a368b9bc017}{Epstein}{E\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1814b5c96ac01b9048ad5a368b9bc017}
+      \strng{fullhash}{1814b5c96ac01b9048ad5a368b9bc017}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{2016}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aeon}
+      \field{month}{05}
+      \field{title}{The empty brain}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer
+      \endverb
+    \endentry
+    \entry{evans2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d9fca45b4c9386d21e776d02c870df7b}{Evans}{E\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d9fca45b4c9386d21e776d02c870df7b}
+      \strng{fullhash}{d9fca45b4c9386d21e776d02c870df7b}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Independent School Magazine}
+      \field{note}{Winter Edition}
+      \field{year}{2012}
+    \endentry
+    \entry{fauvel1988}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=46546e88b2c25c8b1b104d2d2eeb20b9}{Fauvel}{F\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46546e88b2c25c8b1b104d2d2eeb20b9}
+      \strng{fullhash}{46546e88b2c25c8b1b104d2d2eeb20b9}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0228-0671}
+      \field{journaltitle}{For the Learning of Mathematics}
+      \field{number}{1}
+      \field{title}{{Cartesian} and {Euclidean} {Rhetoric}}
+      \field{urlday}{13}
+      \field{urlmonth}{12}
+      \field{urlyear}{2016}
+      \field{volume}{8}
+      \field{year}{1988}
+      \field{pages}{25\bibrangedash 29}
+      \range{pages}{5}
+      \verb{url}
+      \verb http://www.jstor.org/stable/40248138
+      \endverb
+    \endentry
+    \entry{feller1968}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0dc1084389f176f601af7787031a22f1}{Feller}{F\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{0dc1084389f176f601af7787031a22f1}
+      \strng{fullhash}{0dc1084389f176f601af7787031a22f1}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{1968}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd edition}
+      \field{isbn}{9780471257080}
+      \field{title}{An {Introduction} to {Probability} {Theory} and {Its} {Applications}, {Vol}. 1, 3rd {Edition}}
+      \field{year}{1968}
+    \endentry
+    \entry{fitzgerald2012}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8e2d3e5e198d1835c46c2d5250de2472}{Fitzgerald}{F\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=fb2e433781ba9a510046bf2a695c178e}{Biggs}{B\bibinitperiod}{A.\bibnamedelimi R.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=80e2339ccbfaa32d2a5e1dfbd07797f3}{Coleman}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d04a7a72780860e1ae92f86d5c4fc54b}{Morrison}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sage publishers, London, England}%
+      }
+      \strng{namehash}{8e2d3e5e198d1835c46c2d5250de2472}
+      \strng{fullhash}{8e2d3e5e198d1835c46c2d5250de2472}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Documents and documentary analysis: reading between the lines}
+      \field{title}{Reserch methods in educational leadership and management}
+      \field{year}{2012}
+      \field{pages}{278\bibrangedash 314}
+      \range{pages}{37}
+    \endentry
+    \entry{friesen2011}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a8bf85493b8bab4405ee27b98cc47e23}{Friesen}{F\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a8bf85493b8bab4405ee27b98cc47e23}
+      \strng{fullhash}{a8bf85493b8bab4405ee27b98cc47e23}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Researcher}
+      \field{number}{3}
+      \field{title}{The lecture as transmedial pedagogical form: a historical analysis}
+      \field{volume}{40}
+      \field{year}{2011}
+      \field{pages}{95\bibrangedash 102}
+      \range{pages}{8}
+    \endentry
+    \entry{gerofsky1996}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=df66c492b7d87ceafe1b8bccdfff7ef8}{Gerofsky}{G\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{df66c492b7d87ceafe1b8bccdfff7ef8}
+      \strng{fullhash}{df66c492b7d87ceafe1b8bccdfff7ef8}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0228-0671}
+      \field{journaltitle}{For the Learning of Mathematics}
+      \field{number}{2}
+      \field{title}{A {Linguistic} and {Narrative} {View} of {Word} {Problems} in {Mathematics} {Education}}
+      \field{urlday}{09}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{volume}{16}
+      \field{year}{1996}
+      \field{pages}{36\bibrangedash 45}
+      \range{pages}{10}
+    \endentry
+    \entry{gold2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4c3916405350f70e98c91b0c0109aad8}{Gold}{G\bibinitperiod}{Bonnie}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4c3916405350f70e98c91b0c0109aad8}
+      \strng{fullhash}{4c3916405350f70e98c91b0c0109aad8}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Association of America}
+      \field{title}{Where mathematics comes from: how the embodied mind brings mathematics into being}
+      \field{year}{2001}
+    \endentry
+    \entry{goldin2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c1a6b8078cc175943b9e796f1a063622}{Goldin}{G\bibinitperiod}{G.\bibnamedelimi A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c1a6b8078cc175943b9e796f1a063622}
+      \strng{fullhash}{c1a6b8078cc175943b9e796f1a063622}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2001}
+      \field{labelmonth}{09}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{09}
+      \field{title}{Counting on the metaphorical}
+      \field{volume}{413}
+      \field{year}{2001}
+      \field{pages}{18\bibrangedash 19}
+      \range{pages}{2}
+    \endentry
+    \entry{goodman1979}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=133d526d38bdeda9219de4adbbd59be3}{Goodman}{G\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8226b8689939aa7a58d7ff7a5d585388}{Sacks}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Chicago University Press, Chicago, IL}%
+      }
+      \strng{namehash}{133d526d38bdeda9219de4adbbd59be3}
+      \strng{fullhash}{133d526d38bdeda9219de4adbbd59be3}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{1979}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{Metaphor as moonlighting}
+      \field{title}{On metaphor}
+      \field{year}{1979}
+    \endentry
+    \entry{hardy1940}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2fc1c06bfe63898e7a0a1c585873f7b0}{Hardy}{H\bibinitperiod}{G.\bibnamedelimi H.}{G\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{2fc1c06bfe63898e7a0a1c585873f7b0}
+      \strng{fullhash}{2fc1c06bfe63898e7a0a1c585873f7b0}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1940}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781107394476}
+      \field{title}{A {Mathematician}'s {Apology}}
+      \field{year}{1940}
+    \endentry
+    \entry{harrington2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e019fe39616e410cf809dfe485be3bde}{Harrington}{H\bibinitperiod}{Kristine\bibnamedelima J.}{K\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e019fe39616e410cf809dfe485be3bde}
+      \strng{fullhash}{e019fe39616e410cf809dfe485be3bde}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2012}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1092-1095, 1538-067X}
+      \field{journaltitle}{Clinical Journal of Oncology Nursing}
+      \field{month}{08}
+      \field{number}{4}
+      \field{shorttitle}{The {Use} of {Metaphor} in {Discourse} {About} {Cancer}}
+      \field{title}{The {Use} of {Metaphor} in {Discourse} {About} {Cancer}: {A} {Review} of the {Literature}}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{16}
+      \field{year}{2012}
+      \field{pages}{408\bibrangedash 412}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1188/12.CJON.408-412
+      \endverb
+    \endentry
+    \entry{henderson2002}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=342d0378b8879399c0a19c22f16183a1}{Henderson}{H\bibinitperiod}{D.\bibnamedelimi W.}{D\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{342d0378b8879399c0a19c22f16183a1}
+      \strng{fullhash}{342d0378b8879399c0a19c22f16183a1}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Intelligencer}
+      \field{number}{1}
+      \field{title}{Where mathematics comes from: how the embodied mind brings mathematics into being}
+      \field{volume}{24}
+      \field{year}{2002}
+      \field{pages}{75\bibrangedash 78}
+      \range{pages}{4}
+    \endentry
+    \entry{bawe2016}{manual}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=fbeecf448f4d4b3222ec211c3fed77bd}{Heuboeck}{H\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d91b0347234ced765d6aa416d92b4ab9}{Holmes}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4bbf15125b49efbc5e5e7d367433770b}{Nesi}{N\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {The University of Warwick; The University of Reading; Oxford Brookes University}%
+      }
+      \strng{namehash}{c8e5968aac30bc56926c5c7c934126d8}
+      \strng{fullhash}{83fe7f0a4b71dff823861274adf9d298}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {B}{A}{W}{E} corpus manual: an investigation of genres of assessed writing in {B}ritish {H}igher {E}ducation}
+      \field{year}{2016}
+    \endentry
+    \entry{horowitz1986}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=39276fe0b77ada3c64b2268ac457bd15}{Horowitz}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{39276fe0b77ada3c64b2268ac457bd15}
+      \strng{fullhash}{39276fe0b77ada3c64b2268ac457bd15}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English for Specific Purposes}
+      \field{number}{2}
+      \field{title}{Essay examination prompts and the teaching of academic writing}
+      \field{volume}{5}
+      \field{year}{1986}
+      \field{pages}{107\bibrangedash 120}
+      \range{pages}{14}
+    \endentry
+    \entry{horowitz1989}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=39276fe0b77ada3c64b2268ac457bd15}{Horowitz}{H\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{39276fe0b77ada3c64b2268ac457bd15}
+      \strng{fullhash}{39276fe0b77ada3c64b2268ac457bd15}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1989}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RELC Journal}
+      \field{number}{2}
+      \field{title}{Function and form in essay examination prompts}
+      \field{volume}{20}
+      \field{year}{1989}
+      \field{pages}{23\bibrangedash 35}
+      \range{pages}{13}
+    \endentry
+    \entry{johnson1976}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=2,hash=bf892a9a8f4da91efa380314ec66b726}{Johnson}{J\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill, New York City, NY}%
+      }
+      \strng{namehash}{bf892a9a8f4da91efa380314ec66b726}
+      \strng{fullhash}{bf892a9a8f4da91efa380314ec66b726}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1976}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to solve word problems in algebra: a solved problem approach}
+      \field{year}{1976}
+    \endentry
+    \entry{johnson1983}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,hash=63631945529ea3635467c3a9a165f659}{Johnson}{J\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{63631945529ea3635467c3a9a165f659}
+      \strng{fullhash}{63631945529ea3635467c3a9a165f659}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{1983}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Mathematics Teacher}
+      \field{number}{2}
+      \field{title}{Writing in mathematics classes: a valuable tool for learning}
+      \field{volume}{76}
+      \field{year}{1983}
+      \field{pages}{117\bibrangedash 119}
+      \range{pages}{3}
+    \endentry
+    \entry{kane1970}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3c067b06e573dd2ca9239172b2493513}{Kane}{K\bibinitperiod}{R.\bibnamedelimi B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c067b06e573dd2ca9239172b2493513}
+      \strng{fullhash}{3c067b06e573dd2ca9239172b2493513}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1970}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Mathematics Teacher}
+      \field{month}{11}
+      \field{number}{7}
+      \field{title}{The readability of mathematics textbooks revisited}
+      \field{volume}{63}
+      \field{year}{1970}
+      \field{pages}{579\bibrangedash 581}
+      \range{pages}{3}
+    \endentry
+    \entry{keating2015}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e2c889bfc4a41d1fc976e3fbf4122ec2}{Keating}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e2c889bfc4a41d1fc976e3fbf4122ec2}
+      \strng{fullhash}{e2c889bfc4a41d1fc976e3fbf4122ec2}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Pragmatics}
+      \field{title}{Thinking about embedded metaphors}
+      \field{volume}{88}
+      \field{year}{2015}
+      \field{pages}{19\bibrangedash 26}
+      \range{pages}{8}
+    \endentry
+    \entry{keeling2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c65fe08b4acaefd06a2b3db1b2e1be57}{Keeling}{K\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c65fe08b4acaefd06a2b3db1b2e1be57}
+      \strng{fullhash}{c65fe08b4acaefd06a2b3db1b2e1be57}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Education}
+      \field{number}{2}
+      \field{title}{The {B}ologna {P}rocess and the {L}isbon research agenda: the {E}uropean {C}ommision's expanding gole in higher education discourse}
+      \field{volume}{41}
+      \field{year}{2006}
+      \field{pages}{203\bibrangedash 223}
+      \range{pages}{21}
+    \endentry
+    \entry{khan2016}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2893f9d103585f3f0297c0c0bc10c36e}{Khan}{K\bibinitperiod}{Salman}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2893f9d103585f3f0297c0c0bc10c36e}
+      \strng{fullhash}{2893f9d103585f3f0297c0c0bc10c36e}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Basic idea and definitions of random variables}
+      \field{title}{Random variables}
+      \field{urlday}{02}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{year}{2016}
+    \endentry
+    \entry{king1993}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d2959ca957d7e9306a72fbbf0ff51415}{King}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d2959ca957d7e9306a72fbbf0ff51415}
+      \strng{fullhash}{d2959ca957d7e9306a72fbbf0ff51415}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{College Teaching}
+      \field{number}{1}
+      \field{title}{From sage on the stage to guide on the side}
+      \field{volume}{41}
+      \field{year}{1993}
+      \field{pages}{30\bibrangedash 35}
+      \range{pages}{6}
+    \endentry
+    \entry{knowles2006}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=7d7c9da8f9b0f8aa270deb7060f772a2}{Knowles}{K\bibinitperiod}{Murray}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2d68400ed80080c74d9e74400cb38e0}{Moon}{M\bibinitperiod}{Rosamund}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{32aa9554fb9611b52af23c595dc9d0d5}
+      \strng{fullhash}{32aa9554fb9611b52af23c595dc9d0d5}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introducing metaphor}
+      \field{year}{2006}
+      \keyw{Metaphor}
+    \endentry
+    \entry{kovecses2010}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f2f0afdf29ed500523b29ec8b329210b}{Kövecses}{K\bibinitperiod}{Zoltán}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Oxford, England}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{f2f0afdf29ed500523b29ec8b329210b}
+      \strng{fullhash}{f2f0afdf29ed500523b29ec8b329210b}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780199888429}
+      \field{shorttitle}{Metaphor}
+      \field{title}{Metaphor: {A} {Practical} {Introduction}}
+      \field{year}{2010}
+    \endentry
+    \entry{krippendorff1993}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0fe2f29cabde5dc6e650c498ae365d50}{Krippendorff}{K\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0fe2f29cabde5dc6e650c498ae365d50}
+      \strng{fullhash}{0fe2f29cabde5dc6e650c498ae365d50}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cybernetics \& Human Knowing}
+      \field{number}{1}
+      \field{title}{Major Metaphors of Communication and some Constructivist Reflections on their Use}
+      \field{volume}{2}
+      \field{year}{1993}
+      \field{pages}{3\bibrangedash 25}
+      \range{pages}{23}
+    \endentry
+    \entry{kuo1999}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=784d542b5858862ac71d2030f68f95f0}{Kuo}{K\bibinitperiod}{Chih-Hua}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{784d542b5858862ac71d2030f68f95f0}
+      \strng{fullhash}{784d542b5858862ac71d2030f68f95f0}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{1999}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{English for Specific Purposes}
+      \field{number}{2}
+      \field{title}{The use of personal pronouns: role relationships in scientific journal articles}
+      \field{volume}{18}
+      \field{year}{1999}
+      \field{pages}{121\bibrangedash 138}
+      \range{pages}{18}
+    \endentry
+    \entry{kyung2004}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=bc2c18f1f085a0362d7b0d1b491144c1}{{Mi-Kyung}}{M\bibinitperiod}{Ju}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b6accbc4bd492d65f4ac197ce2dc7028}{{Oh\bibnamedelimb Nam}}{O\bibinitperiod}{Kwon}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b80a2e8a63a545acdb1634a4f77cee3a}
+      \strng{fullhash}{b80a2e8a63a545acdb1634a4f77cee3a}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2004}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Korea Societyu of Mathematical Education Series {D}}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{Analysis of students' use of metaphor: the case of a {R}{M}{E}-based differential equations course}
+      \field{volume}{8}
+      \field{year}{2004}
+      \field{pages}{19\bibrangedash 30}
+      \range{pages}{12}
+    \endentry
+    \entry{lakoff1980}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2deed924611887bd7d95ba87f5720dda}{Lakoff}{L\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=2,hash=36abc6d98046449ff16c432759b3fcd6}{Johnson}{J\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Chicago, IL}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{eb87ec3e435b61d051e920b6e48fdb76}
+      \strng{fullhash}{eb87ec3e435b61d051e920b6e48fdb76}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1980}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0226468011}
+      \field{title}{Metaphors we live by}
+      \field{year}{1980}
+      \keyw{Language and languages,Metaphor,Philosophy,Semantics,Truth}
+    \endentry
+    \entry{lakoff2000}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2deed924611887bd7d95ba87f5720dda}{Lakoff}{L\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2f203ec3907b613b9cb3d018bf0013ef}{Núñez}{N\bibinitperiod}{Rafael\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{a4596de0a3050db8e214594ab75ec08c}
+      \strng{fullhash}{a4596de0a3050db8e214594ab75ec08c}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780465037711}
+      \field{shorttitle}{Where {Mathematics} {Comes} from}
+      \field{title}{Where {Mathematics} {Comes} from: {How} the {Embodied} {Mind} {Brings} {Mathematics} {Into} {Being}}
+      \field{year}{2000}
+    \endentry
+    \entry{lamarque1994}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=a2bb60a3d10963addd1d3b5c173b997d}{Lamarque}{L\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9b3bd815c1824beea53dcc0bb44ba9c4}{Olsen}{O\bibinitperiod}{S.\bibnamedelimi H.}{S\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Oxford, England}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press, Oxford, England}%
+      }
+      \strng{namehash}{43b16e385a7eaa0642ca0b1811f5b54f}
+      \strng{fullhash}{43b16e385a7eaa0642ca0b1811f5b54f}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Truth, fiction and literature: philosopical perspective}
+      \field{year}{1994}
+    \endentry
+    \entry{lange2016}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2bcfd178ac04835fccee5de238806cbe}{Lange}{L\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2bcfd178ac04835fccee5de238806cbe}
+      \strng{fullhash}{2bcfd178ac04835fccee5de238806cbe}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Topology}
+      \field{number}{4}
+      \field{title}{Characterization of finite groups generated by reflections and rotations}
+      \field{volume}{9}
+      \field{year}{2016}
+      \field{pages}{1109\bibrangedash 1129}
+      \range{pages}{21}
+    \endentry
+    \entry{laurillard1993}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2bc731d82ad98b2d21363a51518d6fb7}{Laurillard}{L\bibinitperiod}{Diana}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2bc731d82ad98b2d21363a51518d6fb7}
+      \strng{fullhash}{2bc731d82ad98b2d21363a51518d6fb7}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780415092883}
+      \field{shorttitle}{Rethinking university teaching}
+      \field{title}{Rethinking university teaching: a framework for the effective use of educational technology}
+      \field{year}{1993}
+    \endentry
+    \entry{low2008}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=d16fb8c7f3a17725d0d2977ee6049b97}{Low}{L\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7b9d4a933953f4ca40d3dbf3c04db4d7}{Littlemore}{L\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f856a05a3a0e931286af3724985b7bd6}{Koester}{K\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3bf5364a4977d864c4f54f2262d742c5}
+      \strng{fullhash}{a5fab47ed238e84d4cb14622d053b047}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2008}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0142-6001, 1477-450X}
+      \field{journaltitle}{Applied Linguistics}
+      \field{month}{07}
+      \field{number}{3}
+      \field{title}{Metaphor {Use} in {Three} {UK} {University} {Lectures}}
+      \field{volume}{29}
+      \field{year}{2008}
+      \field{pages}{428\bibrangedash 455}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1093/applin/amn008
+      \endverb
+    \endentry
+    \entry{low2010_wot_no_simile}{inbook}{}
+      \name{editor}{4}{}{%
+        {{uniquename=0,hash=d16fb8c7f3a17725d0d2977ee6049b97}{Low}{L\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=944de7bee1822674c295d328e32cadea}{Todd}{T\bibinitperiod}{Z.}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=01fb5cdb531277d0d9c650a70d718ebc}{Deignan}{D\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8834ed637fa407cf45f1af85e02e547e}{Cameron}{C\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins}%
+      }
+      \strng{namehash}{3bf5364a4977d864c4f54f2262d742c5}
+      \strng{fullhash}{3554d6a325562545b36ae755456539e3}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{chapter}{14}
+      \field{series}{Human Cognitive Processing}
+      \field{title}{Wot no similes? The curious absence of simile in university lectures}
+      \field{volume}{26}
+      \field{year}{2010}
+      \field{pages}{291\bibrangedash 308}
+      \range{pages}{18}
+    \endentry
+    \entry{luke2013}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=699cadf4b51d6cfd8f2bdc9a09613f13}{Luke}{L\bibinitperiod}{Allan}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b408176146fe0eadb9816b112a1607c3}{Woods}{W\bibinitperiod}{Annette}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9775714509e31072879b6f22a1e457b0}{Weir}{W\bibinitperiod}{Katie}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Oxford, UK}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{863db30635f09c06bd8739e87605ed69}
+      \strng{fullhash}{bc2c2893e733f3b44d8912c175b71bb8}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780415803199}
+      \field{shorttitle}{Curriculum, {Syllabus} {Design}, and {Equity}}
+      \field{title}{Curriculum, {Syllabus} {Design}, and {Equity}: {A} {Primer} and {Model}}
+      \field{year}{2013}
+    \endentry
+    \entry{madden2001}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9ccf2b4c18e58d18f2e60d59e72b818e}{Madden}{M\bibinitperiod}{J.\bibnamedelimi J.}{J\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9ccf2b4c18e58d18f2e60d59e72b818e}
+      \strng{fullhash}{9ccf2b4c18e58d18f2e60d59e72b818e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Notices of the AMS}
+      \field{number}{10}
+      \field{title}{Book Review: Where Mathematics Comes From}
+      \field{volume}{48}
+      \field{year}{2001}
+      \field{pages}{1182\bibrangedash 1188}
+      \range{pages}{7}
+    \endentry
+    \entry{mantzavinos2005}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b8150703a5b8b0c46b1ed2a3e7254b91}{Mantzavinos}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b8150703a5b8b0c46b1ed2a3e7254b91}
+      \strng{fullhash}{b8150703a5b8b0c46b1ed2a3e7254b91}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2005}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781139444873}
+      \field{month}{03}
+      \field{title}{Naturalistic {Hermeneutics}}
+      \field{year}{2005}
+    \endentry
+    \entry{marbach2000}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=69b76aecfe363d48af863d987b3a0fda}{Marbach-Ad}{M\bibinithyphendelim A\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dcd608f5630c4032b0041fc7dd32e22d}{Sokolove}{S\bibinitperiod}{P.\bibnamedelimi G.}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{de68d0a58061f4c8890f62ef3ac998f5}
+      \strng{fullhash}{de68d0a58061f4c8890f62ef3ac998f5}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Research in Science Teaching}
+      \field{number}{8}
+      \field{title}{Can undergraduate biology students learn to ask higher level questions?}
+      \field{volume}{37}
+      \field{year}{2000}
+      \field{pages}{854\bibrangedash 870}
+      \range{pages}{17}
+    \endentry
+    \entry{mcculloch2013}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=ab7ff5d66cfcd6bbecd671873c37d5d4}{McCulloch}{M\bibinitperiod}{Gary}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=5af8c8295678892c1213f4e867da38be}{Crook}{C\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Oxford, England}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{488cf7af48d48be5421634d086f7d8a1}
+      \strng{fullhash}{488cf7af48d48be5421634d086f7d8a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2013}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781317853589}
+      \field{month}{11}
+      \field{title}{The {Routledge} {International} {Encyclopedia} of {Education}}
+      \field{year}{2013}
+      \field{pages}{569\bibrangedash 571}
+      \range{pages}{3}
+    \endentry
+    \entry{miller1990}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2c869ffb98633aa34f44f7661b40d04f}{Miller}{M\bibinitperiod}{Steven\bibnamedelima I.}{S\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=d49b31d085f042ce9d952e2a1b07fc75}{Fredericks}{F\bibinitperiod}{Marcel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{69bb3ec446299315fe2661a0f079b7bc}
+      \strng{fullhash}{69bb3ec446299315fe2661a0f079b7bc}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1990}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0885-7253}
+      \field{journaltitle}{Metaphor and Symbolic Activity}
+      \field{month}{06}
+      \field{number}{2}
+      \field{shorttitle}{Perceptions of the {Crisis} in {American} {Public} {Education}}
+      \field{title}{Perceptions of the {Crisis} in {American} {Public} {Education}: {The} {Relationship} of {Metaphors} to {Ideology}}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{5}
+      \field{year}{1990}
+      \field{pages}{67\bibrangedash 81}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1207/s15327868ms0502_1
+      \endverb
+    \endentry
+    \entry{montgomery1991}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3409c2b8f25739cac9ef8e55b0aaa19e}{Montgomery}{M\bibinitperiod}{Scott\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{3409c2b8f25739cac9ef8e55b0aaa19e}
+      \strng{fullhash}{3409c2b8f25739cac9ef8e55b0aaa19e}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1991}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0950-5431, 1470-1189}
+      \field{journaltitle}{Science as Culture}
+      \field{month}{01}
+      \field{number}{3}
+      \field{title}{Codes and combat in biomedical discourse}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{2}
+      \field{year}{1991}
+      \field{pages}{341\bibrangedash 390}
+      \range{pages}{50}
+      \verb{doi}
+      \verb 10.1080/09505439109526314
+      \endverb
+    \endentry
+    \entry{munby1986}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a89981f00b7b2deb46f5f65fc9527ba0}{Munby}{M\bibinitperiod}{Hugh}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{a89981f00b7b2deb46f5f65fc9527ba0}
+      \strng{fullhash}{a89981f00b7b2deb46f5f65fc9527ba0}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1986}
+      \field{labelmonth}{04}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0022-0272, 1366-5839}
+      \field{journaltitle}{Journal of Curriculum Studies}
+      \field{month}{04}
+      \field{number}{2}
+      \field{shorttitle}{Metaphor in the thinking of teachers}
+      \field{title}{Metaphor in the thinking of teachers: {An} exploratory study}
+      \field{urlday}{29}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{volume}{18}
+      \field{year}{1986}
+      \field{pages}{197\bibrangedash 209}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1080/0022027860180209
+      \endverb
+    \endentry
+    \entry{nesi2012}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=4bbf15125b49efbc5e5e7d367433770b}{Nesi}{N\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=501244333904968b9ec1f553a3b86ff4}{Gardner}{G\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press, Cambridge, England}%
+      }
+      \strng{namehash}{2352a037e99610c2a1f1b55a3e0f65ba}
+      \strng{fullhash}{2352a037e99610c2a1f1b55a3e0f65ba}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Genres across the disciplines: student writing in higher education}
+      \field{year}{2012}
+    \endentry
+    \entry{nesi2004}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=4bbf15125b49efbc5e5e7d367433770b}{Nesi}{N\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=691178aabd14f15dd671389f89e54cb3}{Sharpling}{S\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=941225bb065c053e8f5feee033d1afb0}{Ganobcsik-Williams}{G\bibinithyphendelim W\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9afe60c05726f4192c5b75d1afc8c61f}
+      \strng{fullhash}{21426696bbe37a4c4253bfeeb5bd20d7}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers and Composition}
+      \field{number}{4}
+      \field{title}{Student papers across the curriculum: Designing and developing a corpus of {B}ritish student writing}
+      \field{volume}{21}
+      \field{year}{2004}
+      \field{pages}{439\bibrangedash 450}
+      \range{pages}{12}
+    \endentry
+    \entry{obrien2009}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3794b16b5ec1234b4f95deafc4bb929e}{O'Brien}{O\bibinitperiod}{Judith\bibnamedelima Grunert}{J\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=26461ff1092832eb90e53297c83867b8}{Millis}{M\bibinitperiod}{Barbara\bibnamedelima J.}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=86f4a1781650ea94dba2b50ec18f4653}{Cohen}{C\bibinitperiod}{Margaret\bibnamedelima W.}{M\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{b832e48a6e32f3b896a71f58e90308df}
+      \strng{fullhash}{b8733a011f1658d20f3ac500d3a699f4}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelyear}{2009}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780470605493}
+      \field{month}{10}
+      \field{shorttitle}{The {Course} {Syllabus}}
+      \field{title}{The {Course} {Syllabus}: {A} {Learning}-{Centered} {Approach}}
+      \field{year}{2009}
+    \endentry
+    \entry{ortony1975}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=362a50ffcdbd6d9f530b8f7b29844467}{Ortony}{O\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{362a50ffcdbd6d9f530b8f7b29844467}
+      \strng{fullhash}{362a50ffcdbd6d9f530b8f7b29844467}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelyear}{1975}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1741-5446}
+      \field{journaltitle}{Educational Theory}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Why {Metaphors} {Are} {Necessary} and {Not} {Just} {Nice}}
+      \field{urlday}{30}
+      \field{urlmonth}{09}
+      \field{urlyear}{2016}
+      \field{volume}{25}
+      \field{year}{1975}
+      \field{pages}{45\bibrangedash 53}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1111/j.1741-5446.1975.tb00666.x
+      \endverb
+    \endentry
+    \entry{paechter2004}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=273148ec903ee8c78f3bc63d2b78b4b2}{Paechter}{P\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{273148ec903ee8c78f3bc63d2b78b4b2}
+      \strng{fullhash}{273148ec903ee8c78f3bc63d2b78b4b2}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pedagogy, Culture and Society}
+      \field{number}{3}
+      \field{title}{Metaphirs of space in educational theory and practice}
+      \field{volume}{12}
+      \field{year}{2004}
+      \field{pages}{449\bibrangedash 466}
+      \range{pages}{18}
+    \endentry
+    \entry{pearson1991}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b3eeed348e2a198189f55d4bde89f356}{Pearson}{P\bibinitperiod}{J.\bibnamedelimi C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ba5a7e045b92bb2f6258c57fcb7c7a98}{West}{W\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e7a2810b2a3d939b551bcc5e22e9ad76}
+      \strng{fullhash}{e7a2810b2a3d939b551bcc5e22e9ad76}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1991}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Communication Education}
+      \field{title}{An initial investigation of the effects of gender on student questions in the classroom: Developing a descriptive base}
+      \field{volume}{40}
+      \field{year}{1991}
+      \field{pages}{22\bibrangedash 32}
+      \range{pages}{11}
+    \endentry
+    \entry{perrez2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e3d712e94bd1a62edbf836be0c765c2a}{Perrez}{P\bibinitperiod}{Julien}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=287f8da62450f3606c31ce2082665cf5}{Reuchamps}{R\bibinitperiod}{Min}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{510055da825013f03e229b87aa73533a}
+      \strng{fullhash}{510055da825013f03e229b87aa73533a}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2210-4070, 2210-4097}
+      \field{journaltitle}{Metaphor and the Social World}
+      \field{number}{2}
+      \field{title}{Special issue on the political impact of metaphors}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{5}
+      \field{year}{2015}
+      \field{pages}{165\bibrangedash 176}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1075/msw.5.2.00int
+      \endverb
+    \endentry
+    \entry{pimm_metaphor_1981}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0fe66e37f3f78f24e0bc9a239e56f24a}{Pimm}{P\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0fe66e37f3f78f24e0bc9a239e56f24a}
+      \strng{fullhash}{0fe66e37f3f78f24e0bc9a239e56f24a}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1981}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0228-0671}
+      \field{journaltitle}{For the Learning of Mathematics}
+      \field{number}{3}
+      \field{title}{Metaphor and {analogy} in {mathematics}}
+      \field{urlday}{18}
+      \field{urlmonth}{07}
+      \field{urlyear}{2016}
+      \field{volume}{1}
+      \field{year}{1981}
+      \field{pages}{47\bibrangedash 50}
+      \range{pages}{4}
+    \endentry
+    \entry{pimm1984}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0fe66e37f3f78f24e0bc9a239e56f24a}{Pimm}{P\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0fe66e37f3f78f24e0bc9a239e56f24a}
+      \strng{fullhash}{0fe66e37f3f78f24e0bc9a239e56f24a}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{1984}
+      \field{labelmonth}{06}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics Teaching}
+      \field{month}{06}
+      \field{title}{Who is we?}
+      \field{volume}{107}
+      \field{year}{1984}
+      \field{pages}{39\bibrangedash 42}
+      \range{pages}{4}
+    \endentry
+    \entry{pragglejaz2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=eb0b2c20c6fadcb501a6af58517a31a3}{Pragglejaz}{P\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{eb0b2c20c6fadcb501a6af58517a31a3}
+      \strng{fullhash}{eb0b2c20c6fadcb501a6af58517a31a3}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2007}
+      \field{labelmonth}{01}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1092-6488, 1532-7868}
+      \field{journaltitle}{Metaphor and Symbol}
+      \field{month}{01}
+      \field{number}{1}
+      \field{shorttitle}{{MIP}}
+      \field{title}{{MIP}: {A} {Method} for {Identifying} {Metaphorically} {Used} {Words} in {Discourse}}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{22}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1080/10926480709336752
+      \endverb
+    \endentry
+    \entry{fheq2008}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=aea26e321336ca71c4f828ac4b42e83d}{{Quality\bibnamedelimb Assurance\bibnamedelimb Agency\bibnamedelimb for\bibnamedelimb Higher\bibnamedelimb Education}}{Q\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{aea26e321336ca71c4f828ac4b42e83d}
+      \strng{fullhash}{aea26e321336ca71c4f828ac4b42e83d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{15867262911a166ca2270ec58a0e3fe9}
+      \field{labelyear}{2008}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{08}
+      \field{note}{Quality Assurance Agency for Higher Education}
+      \field{title}{The framework for higher education qualifications in England, Wales, and Northern Ireland}
+      \field{year}{2008}
+    \endentry
+    \entry{quilici1996}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=06086640df87c4604ab62cd4e8b93403}{Quilici}{Q\bibinitperiod}{Jill\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b7a91478c9300c873f149b81c7f613cd}{Mayer}{M\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{1510f8887119b5d36ffc7abb4363fa70}
+      \strng{fullhash}{1510f8887119b5d36ffc7abb4363fa70}
+      \field{sortinit}{Q}
+      \field{sortinithash}{15867262911a166ca2270ec58a0e3fe9}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-2176 0022-0663}
+      \field{journaltitle}{Journal of Educational Psychology}
+      \field{number}{1}
+      \field{title}{Role of examples in how students learn to categorize statistics word problems}
+      \field{volume}{88}
+      \field{year}{1996}
+      \field{pages}{144\bibrangedash 161}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1037/0022-0663.88.1.144
+      \endverb
+    \endentry
+    \entry{read2001}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=bb9741e6d36a93cd2e16a71d7cd4be96}{Read}{R\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=218003c6065a9053c4fd26d2971463ed}{Francis}{F\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8e943467e5779ef07f6023693439de6c}{Robson}{R\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{30df28c0002e791c1fbfe63c4bc91404}
+      \strng{fullhash}{fafce3ab3d13d33efc31a141e22d790e}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal of Sociology of Education}
+      \field{number}{3}
+      \field{title}{\squote{Playing Safe}: undergraduate essay writing and the presentation of the student \squote{voice}}
+      \field{volume}{22}
+      \field{year}{2001}
+      \field{pages}{387\bibrangedash 399}
+      \range{pages}{13}
+    \endentry
+    \entry{reddy1993}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=854a6ca211b728bcd087b074c5d0b2f0}{Reddy}{R\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{854a6ca211b728bcd087b074c5d0b2f0}
+      \strng{fullhash}{854a6ca211b728bcd087b074c5d0b2f0}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{Metaphor and {Thought}}
+      \field{edition}{Second edition}
+      \field{isbn}{9781139173865}
+      \field{shorttitle}{The conduit metaphor}
+      \field{title}{The conduit metaphor: {A} case of frame conflict in our language about language}
+      \field{year}{1993}
+    \endentry
+    \entry{reusser1997}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=23a5dcce316b65672ba63873bae70f2e}{Reusser}{R\bibinitperiod}{Kurt}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=77ad1c526f3522603e20d9484482f111}{Stebler}{S\bibinitperiod}{Rita}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e0331cefe090b3d5d6f126a511db71ca}
+      \strng{fullhash}{e0331cefe090b3d5d6f126a511db71ca}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1997}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0959-4752}
+      \field{journaltitle}{Learning and Instruction}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Every word problem has a solution---{The} social rationality of mathematical modeling in schools}
+      \field{urlday}{30}
+      \field{urlmonth}{09}
+      \field{urlyear}{2016}
+      \field{volume}{7}
+      \field{year}{1997}
+      \field{pages}{309\bibrangedash 327}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1016/S0959-4752(97)00014-5
+      \endverb
+    \endentry
+    \entry{ribbins2012}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1f8a13609f636dc50c1f97e14cbe3f8f}{Ribbins}{R\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=379facf6df781d45f8d2d8ffc49bae87}{Briggs}{B\bibinitperiod}{A.\bibnamedelimi R.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=80e2339ccbfaa32d2a5e1dfbd07797f3}{Coleman}{C\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d04a7a72780860e1ae92f86d5c4fc54b}{Morrison}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Sage Publishers, London, England}%
+      }
+      \strng{namehash}{1f8a13609f636dc50c1f97e14cbe3f8f}
+      \strng{fullhash}{1f8a13609f636dc50c1f97e14cbe3f8f}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{13}
+      \field{title}{Research methods in educational leadership}
+      \field{year}{2012}
+    \endentry
+    \entry{robins2000}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=bf615cc72310078c444f0c653a1fc5e7}{Robins}{R\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6b27f4592197d058b81cb25b0b285942}{Wasserman}{W\bibinitperiod}{Larry}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{7b0ffc3aa4ba34f1e2c20d968a091bf1}
+      \strng{fullhash}{7b0ffc3aa4ba34f1e2c20d968a091bf1}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2000}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0162-1459, 1537-274X}
+      \field{journaltitle}{Journal of the American Statistical Association}
+      \field{month}{12}
+      \field{number}{452}
+      \field{shorttitle}{Conditioning, {Likelihood}, and {Coherence}}
+      \field{title}{Conditioning, {Likelihood}, and {Coherence}: {A} {Review} of {Some} {Foundational} {Concepts}}
+      \field{urlday}{13}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{volume}{95}
+      \field{year}{2000}
+      \field{pages}{1340\bibrangedash 1346}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1080/01621459.2000.10474344
+      \endverb
+    \endentry
+    \entry{robinson2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cb75bcaf784a8705fa81218bef87d42b}{Robinson}{R\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Chichester, England}%
+      }
+      \list{publisher}{1}{%
+        {Capstone}%
+      }
+      \strng{namehash}{cb75bcaf784a8705fa81218bef87d42b}
+      \strng{fullhash}{cb75bcaf784a8705fa81218bef87d42b}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Out of our minds: learning to be creative}
+      \field{year}{2011}
+    \endentry
+    \entry{rota2011}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5a1c7f2794d7119e68f31600477b5278}{Rota}{R\bibinitperiod}{G.-C.}{G\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5a1c7f2794d7119e68f31600477b5278}
+      \strng{fullhash}{5a1c7f2794d7119e68f31600477b5278}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1997}
+      \field{labelmonth}{05}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Synthese}
+      \field{month}{05}
+      \field{number}{2}
+      \field{title}{The phenomenology of mathematical beauty}
+      \field{volume}{111}
+      \field{year}{1997}
+      \field{pages}{171\bibrangedash 182}
+      \range{pages}{12}
+    \endentry
+    \entry{rubin1985}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bcb3ec7c222ae98a7d6e0937d35ae92c}{Rubin}{R\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bcb3ec7c222ae98a7d6e0937d35ae92c}
+      \strng{fullhash}{bcb3ec7c222ae98a7d6e0937d35ae92c}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{1985}
+      \field{labelmonth}{08}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Chronicle of Higher Education}
+      \field{month}{08}
+      \field{title}{Professors, students, and the syllabus}
+      \field{year}{1985}
+      \field{pages}{56}
+      \range{pages}{1}
+    \endentry
+    \entry{schiralli2003}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=5187238adf35494eeb10338a0197e498}{Schiralli}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6c752fcfb8ccb73ec529c828f311465f}{Sinclair}{S\bibinitperiod}{N.}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{52e90a98df40cd22d2311d731e3bc8e7}
+      \strng{fullhash}{52e90a98df40cd22d2311d731e3bc8e7}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Educational Studies in Mathematics}
+      \field{number}{1}
+      \field{title}{A constructive response to `Where Mathematics Comes From'}
+      \field{volume}{52}
+      \field{year}{2003}
+      \field{pages}{79\bibrangedash 91}
+      \range{pages}{13}
+    \endentry
+    \entry{searle1969}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9951c6e593119c6f78c010ee632b2688}{Searle}{S\bibinitperiod}{J.\bibnamedelimi R.}{J\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press, Cambridge, England}%
+      }
+      \strng{namehash}{9951c6e593119c6f78c010ee632b2688}
+      \strng{fullhash}{9951c6e593119c6f78c010ee632b2688}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1969}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Speech acts: an essay in the philosophy of language}
+      \field{year}{1969}
+    \endentry
+    \entry{sfard1998}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2f14188f250685d5017049e23cee67a6}{Sfard}{S\bibinitperiod}{Anna}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2f14188f250685d5017049e23cee67a6}
+      \strng{fullhash}{2f14188f250685d5017049e23cee67a6}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1998}
+      \field{labelmonth}{03}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0013189X}
+      \field{journaltitle}{Educational Researcher}
+      \field{month}{03}
+      \field{number}{2}
+      \field{title}{On {Two} {Metaphors} for {Learning} and the {Dangers} of {Choosing} {Just} {One}}
+      \field{urlday}{20}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{27}
+      \field{year}{1998}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.2307/1176193
+      \endverb
+    \endentry
+    \entry{steen1994}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1120ee7238d20fb54bbc94255e1f6f93}{Steen}{S\bibinitperiod}{Gerard}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Longman}%
+      }
+      \strng{namehash}{1120ee7238d20fb54bbc94255e1f6f93}
+      \strng{fullhash}{1120ee7238d20fb54bbc94255e1f6f93}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Studies in language and linguistics}
+      \field{shorttitle}{Understanding metaphor in literature}
+      \field{title}{Understanding metaphor in literature: an empirical approach}
+      \field{year}{1994}
+    \endentry
+    \entry{stewart2015}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=503d73443cd43e5af8041679da6b684a}{Stewart}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{503d73443cd43e5af8041679da6b684a}
+      \strng{fullhash}{503d73443cd43e5af8041679da6b684a}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Educational Evaluation}
+      \field{title}{The language of praise and criticism in a student evaluation survey}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+    \endentry
+    \entry{toffler1990}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9afecae7596641c5106666aaf15c00e4}{Toffler}{T\bibinitperiod}{Alvin}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {New York City, NY}%
+      }
+      \list{publisher}{1}{%
+        {Bantam Books}%
+      }
+      \strng{namehash}{9afecae7596641c5106666aaf15c00e4}
+      \strng{fullhash}{9afecae7596641c5106666aaf15c00e4}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1990}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780553277371}
+      \field{title}{Future {Shock}}
+      \field{year}{1990}
+    \endentry
+    \entry{tourish2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=8ea584c2c299a190f7d697fd746628ed}{Tourish}{T\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=90e40cc58c328df9f43eca0c18d2e1b9}{Hargie}{H\bibinitperiod}{O.}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4e9fe3a97fac40331b6add737f4fb2fa}
+      \strng{fullhash}{4e9fe3a97fac40331b6add737f4fb2fa}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Organization Studies}
+      \field{number}{8}
+      \field{title}{Metaphors of failure and the failures of metaphor: a critical study of root metaphors used by bankers in explaining the banking crisis}
+      \field{volume}{33}
+      \field{year}{2012}
+      \field{pages}{1045\bibrangedash 1069}
+      \range{pages}{25}
+    \endentry
+    \entry{tucker2014}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9f0b38416da9e70ce45486deeb032e52}{Tucker}{T\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9f0b38416da9e70ce45486deeb032e52}
+      \strng{fullhash}{9f0b38416da9e70ce45486deeb032e52}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Higher Education}
+      \field{title}{Student evaluation surveys: anonymous comments that offend or are unprofessional}
+      \field{volume}{68}
+      \field{year}{2014}
+      \field{pages}{347\bibrangedash 358}
+      \range{pages}{12}
+    \endentry
+    \entry{unesco_institute_for_statistics_international_2012}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=24a0ef0a6269be289db4de9570763de3}{{UNESCO}}{U\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Montreal, Quebec}%
+      }
+      \list{publisher}{1}{%
+        {UNESCO Institute for Statistics}%
+      }
+      \strng{namehash}{24a0ef0a6269be289db4de9570763de3}
+      \strng{fullhash}{24a0ef0a6269be289db4de9570763de3}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9789291891238}
+      \field{note}{OCLC: 879578739}
+      \field{shorttitle}{International standard classification of education}
+      \field{title}{International standard classification of education: {ISCED} 2011}
+      \field{year}{2012}
+    \endentry
+    \entry{vella2007}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c4863dae37ec2721168baff6f9cbb145}{Vella}{V\bibinitperiod}{Jane}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {San Francisco, CA}%
+      }
+      \list{publisher}{1}{%
+        {Jossey-Bass}%
+      }
+      \strng{namehash}{c4863dae37ec2721168baff6f9cbb145}
+      \strng{fullhash}{c4863dae37ec2721168baff6f9cbb145}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2007}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{first edition}
+      \field{isbn}{9780787986995}
+      \field{month}{11}
+      \field{shorttitle}{On {Teaching} and {Learning}}
+      \field{title}{On {Teaching} and {Learning}: {Putting} the {Principles} and {Practices} of {Dialogue} {Education} into {Action}}
+      \field{year}{2007}
+    \endentry
+    \entry{verschaffel2014}{incollection}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=feaf222635ac484b4e9733fb17407012}{Verschaffel}{V\bibinitperiod}{Lieven}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=477e5b262740c8fe1f67c931f8b79f9a}{Depaepe}{D\bibinitperiod}{Fien}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0c7dd4f15cff79007a5005d727408061}{Van\bibnamedelima Dooren}{V\bibinitperiod\bibinitdelim D\bibinitperiod}{Wim}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e7ea9460fc1b1611ec97bcb7159fbdc7}{Lerman}{L\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{5aa9fb92a305785b21beb1112cdf4e09}
+      \strng{fullhash}{25a6b462b883b3951ad3e503c29d181f}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of {Mathematics} {Education}}
+      \field{title}{Word {Problems} in {Mathematics} {Education}}
+      \field{urlday}{30}
+      \field{urlmonth}{09}
+      \field{urlyear}{2016}
+      \field{year}{2014}
+      \field{pages}{641\bibrangedash 645}
+      \range{pages}{5}
+    \endentry
+    \entry{wachtel1998}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0a1c415f2fdd3482f35a13329fb4f800}{Wachtel}{W\bibinitperiod}{H.\bibnamedelimi K.}{H\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0a1c415f2fdd3482f35a13329fb4f800}
+      \strng{fullhash}{0a1c415f2fdd3482f35a13329fb4f800}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Assessment and Evaluation in Higher Education}
+      \field{number}{2}
+      \field{title}{Student evaluation of college teaching effectiveness: a brief review}
+      \field{volume}{23}
+      \field{year}{1998}
+      \field{pages}{191\bibrangedash 212}
+      \range{pages}{22}
+    \endentry
+    \entry{wallis2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=dfee30343c2160e4dfde7bcaed80196c}{Wallis}{W\bibinitperiod}{Sean}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=13ec681e30572f0a16ed471f0ec68788}{Nelson}{N\bibinitperiod}{Gerald}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{4a3459e9a7be3e4bdcdf1ff01ed78edb}
+      \strng{fullhash}{4a3459e9a7be3e4bdcdf1ff01ed78edb}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2001}
+      \field{labelmonth}{10}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1384-5810, 1573-756X}
+      \field{journaltitle}{Data Mining and Knowledge Discovery}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Knowledge {Discovery} in {Grammatically} {Analysed} {Corpora}}
+      \field{urlday}{22}
+      \field{urlmonth}{01}
+      \field{urlyear}{2016}
+      \field{volume}{5}
+      \field{year}{2001}
+      \field{pages}{305\bibrangedash 335}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1023/A:1011453128373
+      \endverb
+    \endentry
+    \entry{wasserstein2016}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=2fdaf772e64d2da4e37389e8757383f4}{Wasserstein}{W\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=182dfc87ba14de06ed065da969af6812}{Lazar}{L\bibinitperiod}{N.\bibnamedelimi A.}{N\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eb7b574dc4171a3e8bc69fdb0aa833ca}
+      \strng{fullhash}{eb7b574dc4171a3e8bc69fdb0aa833ca}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The American Statistician}
+      \field{number}{2}
+      \field{title}{The {A}{S}{A}'s statement on p-values: context, process, and purpose}
+      \field{volume}{70}
+      \field{year}{2016}
+      \field{pages}{129\bibrangedash 133}
+      \range{pages}{5}
+    \endentry
+    \entry{wegner2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0099ea08de97b2695180a658b08d3345}{Wegner}{W\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6dfb90fe865f4539a3d1b462d62f7349}{Nückles}{N\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3c5e0bc23c8a1cc7c7142cb55fdfb723}
+      \strng{fullhash}{3c5e0bc23c8a1cc7c7142cb55fdfb723}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studies in Higher Education}
+      \field{number}{4}
+      \field{title}{Knowledge acquisition or participation in communities of practice? Academics' metaphors of teaching and learning at the university}
+      \field{volume}{40}
+      \field{year}{2015}
+      \field{pages}{624\bibrangedash 643}
+      \range{pages}{20}
+    \endentry
+    \entry{weinberg2012}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=8015fe985cd4ea10ae7d5bb56c708a64}{Weinberg}{W\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=406a2b50a30015a8e33051e59b2e5e9a}{Wiesner}{W\bibinitperiod}{Emilie}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=af53ccab1d5634484c72801434789b5a}{Benesh}{B\bibinitperiod}{Bret}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=019b6a9136e4ca7259629598132d5a94}{Boester}{B\bibinitperiod}{Timothy}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2b99b3a557be48a49276fd59c59a1229}
+      \strng{fullhash}{28e98bfefa8c746a71d840c548d57f85}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2012}
+      \field{labelmonth}{02}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1051-1970}
+      \field{journaltitle}{PRIMUS}
+      \field{month}{02}
+      \field{number}{2}
+      \field{title}{Undergraduate {Students}' {Self}-{Reported} {Use} of {Mathematics} {Textbooks}}
+      \field{urlday}{22}
+      \field{urlmonth}{12}
+      \field{urlyear}{2016}
+      \field{volume}{22}
+      \field{year}{2012}
+      \field{pages}{152\bibrangedash 175}
+      \range{pages}{24}
+    \endentry
+    \entry{willox2010}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=d2f2529f6e70a411a8f8f24d727d12eb}{Willox}{W\bibinitperiod}{Ashlee\bibnamedelima Cunsolo}{A\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2d9906834e8ff5ee2d06e72f09f66f4a}{Harper}{H\bibinitperiod}{Sherilee\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3f38da8d3da8ac8fcafa48d5f96d3dff}{Bridger}{B\bibinitperiod}{Dawson}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da8aeab049228dba26911ca36e2fc06e}{Morton}{M\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=c1cfcfbfd72ac1cbf183614afd9f4aa9}{Orbach}{O\bibinitperiod}{Ariella}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=58407245ee73493144102cd92a9d13e3}{Sarapura}{S\bibinitperiod}{Silvia}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f5d18f9cdffbca44f7a1f43f081ba131}
+      \strng{fullhash}{974f695ccaf1d045b38c46be356c5137}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1812-9129}
+      \field{journaltitle}{International Journal of Teaching and Learning in Higher Education}
+      \field{number}{1}
+      \field{shorttitle}{Co-{Creating} {Metaphor} in the {Classroom} for {Deeper} {Learning}}
+      \field{title}{Co-{Creating} {Metaphor} in the {Classroom} for {Deeper} {Learning}: {Graduate} {Student} {Reflections}}
+      \field{urlday}{31}
+      \field{urlmonth}{08}
+      \field{urlyear}{2016}
+      \field{volume}{22}
+      \field{year}{2010}
+      \field{pages}{71\bibrangedash 79}
+      \range{pages}{9}
+    \endentry
+    \entry{yoon2011}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=f9e2149bd6e4dfc37e9cc91eaf2f2f0d}{Yoon}{Y\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=314d17af8266f3420bc8b33477d3514e}{Kensington-Miller}{K\bibinithyphendelim M\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb7472bf90ef766b3c04490d84d24118}{Sneddon}{S\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=09622e1156210d23587aeceef9286694}{Bartholomew}{B\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{040e54237687f72ffdedd371d378dc06}
+      \strng{fullhash}{2c5df6e2c82c121c388b67ca9206b0d3}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelyear}{2011}
+      \field{labelmonth}{12}
+      \field{datelabelsource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Mathematical Education in Science and Technology}
+      \field{month}{12}
+      \field{number}{8}
+      \field{title}{It's not the done thing: social norms governing students' passive behaviour in undergraduate mathematics lectures}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{pages}{1107\bibrangedash 1122}
+      \range{pages}{16}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
