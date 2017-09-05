@@ -1,0 +1,344 @@
+\begin{singlespace}
+\begin{savequote}[105mm]
+  How much can we infer about the basic cognitive mechanisms used in
+  mathematics from what we find in texts and curricula? A study of
+  navigation based on the standard manuals would tell us very little
+  indeed about how the task was actually accomplished on the bridge of
+  a large ship.  \qauthor{\mycite{madden2001}}
+\end{savequote}
+\end{singlespace}
+
+\chapter{Metaphor in statistics textbooks}
+\label{chapter5}
+
+\section{Overview}
+
+This chapter gives a discussion of metaphor and metaphorical language
+as used in statistics textbooks.  The majority of the relevant
+literature covers mathematics in general; few articles consider
+metaphor in statistics education.  In this chapter I use literature
+that analyses metaphor in mathematics textbooks and consider the
+extent to which the findings are applicable to statistics education.
+
+The chapter is split into two main parts.  The first part will
+consider metaphor in mathematics generally, specifically as
+interpreted in the controversial \emph{Where mathematics comes
+  from}~\citep{lakoff2000}, henceforth~\wmcf.  I will consider this
+book from the perspective of statistics education.
+
+The second part of the chapter concentrates on one often-overlooked
+aspect of language frequently used in mathematics textbooks: the
+mathematician's \emph{we}.  This usage is considered to be
+metaphorical because the referents are not a well-defined group.  I
+will consider the educational implications of this language use.
+
+\section{Introduction}
+
+A \emph{textbook} is a standard work for the study of a particular
+subject, here statistics; attention will be confined to those used for
+undergraduate study.  Mathematics textbooks are a valuable and
+often-consulted resource for university
+students~\parencite{weinberg2012}.  One might expect metaphorical
+language to be widely and effectively deployed.
+
+Three textbooks were chosen for detailed study:
+
+\begin{itemize}
+\item \mycite{casella2001}\
+\item \mycite{crawley2015}
+\item \mycite{feller1968}
+\end{itemize}
+
+These books span a range of
+sophistication---\citeauthor{casella2001}\footnote{It is standard
+  practice to refer to textbooks by the author(s) name} is classified
+as high-end undergraduate or mid-range postgraduate study material;
+\citeauthor{feller1968} is a classic work, emphasizing rigour, while
+\citeauthor{crawley2015} is practitioner-oriented, heavy on
+computational examples and light on mathematical detail.
+
+However, none of these books appeared to use metaphor at all or at
+most very very sparingly.  The \mycite{pragglejaz2007} protocol, applied
+to the texts, revealed that metaphor (in the sense of
+\mycite{lakoff1980}) was rare to nonexistent.  This is perhaps not
+surprising in such a mathematical context where accuracy is more
+highly valued than clarity or even educational value.
+
+There was, however, one non-literal usage of language that occurred
+frequently throughout all three books: the mathematician's \emph{we},
+which is discussed in section~\ref{we_start}.
+
+\section{Random variables and metaphor}
+
+The notion of \emph{random variable} is a central concept in
+statistics.  The formal definition of a random variable is as follows.
+
+\begin{quote}
+Suppose we have a probability
+space~$\left({\Omega,\mathcal{F},P}\right)$.  Then if~$E$ is some set
+and~$X\colon\Omega\longrightarrow E$ is measurable function
+from~$\Omega$ to~$X$, we say that~$X$ is a {\em random variable}.
+\end{quote}
+
+\noindent
+Note the abstract and unhelpful nature of such a rigorous definition;
+mathematically, the difficulty lies in ensuring consistent behaviour
+when~$E$ is uncountably infinite (one prominent example would
+be~$\mathbb{R}$, the real numbers; one would hope that such
+definitions do not let one down in such a practically important case).
+
+The influential {\em Khan Academy}~\parencite{khan2016} is one of many
+introductions to inferential statistics that discusses random
+variables from a more practical perspective.  While declining to offer
+a formal definition, \citeauthor{khan2016} does give several examples,
+the canonical one being
+
+\[
+X = \begin{cases}
+  0 &\text{if coin lands tails}\\
+  1 &\text{otherwise}
+\end{cases}
+\]
+
+\noindent\citeauthor{khan2016} goes on to state that, 
+together with the specification that~$p(X=0) = p(X=1)=1/2$ fully
+characterizes~$X$.
+
+Undergraduate statistics textbooks typically offer a level of rigour
+between these two extremes.  To what extent do linguistic or cognitive
+metaphors enter in to such discussions?  \mycite{lakoff2000} would
+suggest that metaphor plays a large part in all of mathematics, and
+indeed claim that \emph{all} mathematical reasoning is inherently
+metaphorical.
+
+Of all the metaphorical mathematics presented in \wmcf, by far the
+most relevant is the \metaphor{basic metaphor of infinity}, discussed
+in the next section.
+
+\section{The basic metaphor of infinity}
+
+% macro '\wmcf' is defined in main.tex
+
+Metaphorical language and reasoning is common in mathematics and
+mathematics education~\parencite{pimm_metaphor_1981}.  However, the
+study of metaphor in mathematics was kick-started by publication of
+the controversial {\em Where mathematics comes
+  from}~\parencite{lakoff2000} which set out the authors' contention
+that {\em all} mathematical reasoning is metaphorical.  The authors
+also make a case for mathematics {\em per se} being a human construct.
+
+Statistics, like many branches of mathematics, often uses the concept
+of \emph{infinity}.  Here I draw on the ideas of \mycite{lakoff2000},
+in a controversial work often referred to as \dquote{\wmcf} (being the
+initials of the book title, \emph{Where Mathematics Comes From}).
+\wmcf suggests that all mathematical thought is metaphorical and the
+authors make a case for even such fundamental branches of mathematics
+as axiomatic set theory being metaphorical: for example, the authors
+point out that the conceptual metaphor \conmet{sets are containers and
+  elements objects in them} is purely metaphorical, yet almost
+universally used when thinking about set membership.
+
+Notions such as the number line are also held to be metaphorical:
+natural numbers are not points on a line; counting (enumeration) is
+not temporal progression along a marked rod; sets are not containers
+with elements objects inside them.
+
+\wmcf makes a case, echoing that of~\mycite{lakoff1980}, for many if not
+all such metaphors to be rooted in sensory-motor experience.  Here the
+most germane is the \metaphor{basic metaphor of infinity} (\bmi) in
+which processes that go on indefinitely are conceptualized as having
+an end and an ultimate result.  Motivating examples are discussed,
+including the one-point compactification of the plane, limits of
+sequences, and mathematical induction.
+
+Below I will discuss the relevance of the \bmi to my own teaching,
+specifically the limiting behaviour of the binomial distribution to
+the Poisson.
+
+It should be pointed out that the book has come under severe criticism
+and indeed the ideas have been met with little interest among
+mathematicians.  The authors do not put forward any empirical support
+whatsoever~\parencite{madden2001} for their assertions about the ways
+metaphorical reasoning is used when mathematics is carried out.
+\mycite{schiralli2003}, for example, considers the book to make
+\dquote{fundamental oversimplifications} and observe that the authors
+use the word \emph{metaphor} to serve so many purposes that
+\dquote{the notion of metaphor itself begins to lose its meaning}.
+
+The book received at best mixed reviews from both mathematicians and
+cognitive scientists.  Neither of the authors is a mathematician (and
+certainly no non-elementary mathematics is presented in the book).
+The authors present \dquote{misconceptions of mathematics [that] are
+  prevalent among non-mathematicians}~\parencite{henderson2002}.
+Indeed, many reviewers point to the \dquote{rather frequent}
+mathematical errors~\parencite{gold2001}; at many points in the book,
+metaphorical reasoning is invoked to explain mathematical cognitive
+phenomena, yet a slightly more sophisticated analysis would show an
+appropriate mathematical framework.
+
+Nevertheless, as the authors point out, cognitive mathematics is a
+sorely neglected field of study; and the book provides a coherent
+account of cognition's role in mathematics.
+
+Other aspects of the book are unsatisfactory.  \mycite{goldin2001}, for
+example, considers the book to be \dquote{fundamentally flawed} on the
+grounds that it was poorly sourced in both cognitive science and
+philosophy of mathematical thought.  When mathematicians review the
+book, they observe that \wmcf includes \dquote{numerous errors of
+  mathematical fact}~\parencite{henderson2002} and also conflates at
+least three distinct mathematical activities: learning, using and
+research.
+
+The only evidence that the authors adduce for their assertion that
+metaphor underlies all mathematical thinking is textual. This, if
+nothing else, suggests that it is at least plausible that textual
+analysis of the type given in chapter~2 of the current thesis is a
+respectable source of information in its own right.
+
+My own reading of \wmcf suggests that the authors appear to be
+ignorant of mathematical techniques that render much of their
+metaphorical interpretation unnecessary.  For example, in the context
+of elementary group theory, the authors give an extended discussion of
+what I would call~$C_3$, the cyclic group of three elements.  They
+insist that the different examples of this group (plane rotations
+by~$2n\pi/3$, arithmetic modulo~$3$, etc) are \dquote{metaphorically
+  linked}, and give extensive tables; yet they appear to be ignorant
+of the notion of isomorphism, a formal and non-metaphorical concept
+that would render their analysis superfluous.
+
+Considering the \bmi, the authors again appear not to have understood
+(and certainly have not mentioned) the concept of \emph{Cauchy
+  sequence}, which again would render much of their discussion
+superfluous.  A sequence~$x_1,x_2,\ldots$ is Cauchy if, for
+any~$\epsilon>0$, one can find an integer~$n_0$ such
+that~$n,m\geqslant n_0$ implies~$\left|{x_n-x_m}\right|<\epsilon$.  It
+is easy to show that a Cauchy sequence approaches a limit
+as~$n\longrightarrow\infty$.
+
+Cauchy's startling and elegant definition neatly sidesteps any
+confusion between \dquote{actual infinity} and \dquote{realized
+  infinity} as the limit itself is not mentioned; observe that no
+metaphor is needed.  For this reason, Cauchy sequences are fundamental
+to the understanding of many diverse mathematical concepts such as
+compactness in Hilbert spaces and completeness of $p$-adic numbers.
+
+From an undergraduate statistics education perspective, the \bmi is
+used when considering convergence of random variables.  The example I
+will discuss is drawn from the spoken lectures discussed in
+Chapter~\ref{chapter5}: the elementary observation that the Poisson
+distribution is a limiting case of the binomial.  The formal statement
+I am expressing is as follows: \\ \\
+
+{\bf Theorem.}  if~$X_n\sim\operatorname{Bin}\left({n,r/n}\right)$
+assuming~$0\leqslant r\leqslant n$, then
+  \begin{enumerate}
+  \item ${\displaystyle
+    \lim_{n\longrightarrow\infty}X_n=X}$ exists, and
+  \item $X\sim\operatorname{Poisson}\left({r}\right)$; that
+    is~$\operatorname{Pr}\left({X=n}\right) = \frac{e^{-r}{r^n}}{n!}$.
+  \end{enumerate}
+
+  \noindent
+This fact is neither formally stated, nor any proof given; but the
+underlying idea is both simple and important for statistics at this
+level.  Observe that the concept of Cauchy sequence is applicable to
+probability mass functions just as well for real numbers\footnote{The
+  \dquote{distance} between two probability mass functions is simply
+  the supremum of the differences between their cumulative
+  distribution functions.}.
+
+In this context, \wmcf (Where Mathematics Comes From,
+\cite{lakoff2000}) asserts directly that the \bmi is unavoidable in
+mathematical language, yet the concept of Cauchy sequence neatly
+avoids any need for arguably metaphoric concepts of \dquote{limit} and
+\dquote{the infinite}.  The excerpts shown above demonstrate that
+careful use of Cauchy sequences can illustrate the concepts of
+infinite limits---certainly in the case of Borel probability
+measures---without any potentially confusing metaphorical language;
+and that such methods are available in a written or spoken context.
+
+\section{Rhetorical \label{we_start} metaphor in textbooks}
+
+Mathematical textbooks, including statistics textbooks, frequently use
+rhetorical devices as part of their communication
+strategy~\citep{kane1970}.  One such rhetorical device is the use of
+\emph{we} which is metaphorical in the sense that the writer is not
+using literal language: the reader is identified with a poorly-defined
+\dquote{community of practice}, of which the writer is one (perhaps
+pre-eminent) example.
+
+\citeauthor{pimm1984} asserts that textbooks' use of \emph{we}
+attempts to \dquote{enrol the tacit acquiescence of the reader}, and
+serves as an imposition which fails to take into account the wishes or
+interests of participating individuals.
+
+This peculiar use of \emph{we} among mathematicians is not limited to
+textbooks; it is a ubiquitous construction in research
+articles~\parencite{kuo1999}.  Consider, for example, the first
+article in the most recent edition at time of writing in \emph{The
+  Journal of Topology}\footnote{The discipline of topology is a
+  theoretical branch of pure mathematics, notable for its extreme
+  abstraction}, \parencite{lange2016}. This is a typical article in
+the field, the abstract of which starts \dquote{We characterize finite
+  groups~$G$ generated by orthogonal\ldots}; the \emph{we} must be
+inclusive because the article is single-author.  \mycite{kuo1999}
+considers that the almost complete absence of first-person singular
+pronouns (I/me) to be evidence of effort to reduce personal
+attributions, and this tendency is presumably operating in textbooks
+too.
+
+\subsection{Inclusivity in mathematics}
+
+The mathematicians' \emph{we} is thus an attempt to draw the reader in
+to the community of practice.  In this context, \mycite{fauvel1988}
+considers the issue of inclusivity in mathematics, drawing a
+distinction between the \emph{Euclidean} and \emph{Cartesian} styles
+of rhetoric.  \citeauthor{fauvel1988} characterizes the Euclidean
+style as follows:
+
+\begin{singlespace}
+\begin{quote}
+ There is no sign he notices the existence of readers at all.  Rather,
+ he seems engaged in laying down inexorable eternal truths.  The
+ reader is never addressed.
+\end{quote}
+\end{singlespace}
+
+\noindent and compares with the Cartesian approach:
+
+\begin{singlespace}
+\begin{quote}
+The mathematics described is clearly created, not unveiled, in
+rhetoric which veers from grabbing the reader by the lapels to
+treating you with utter disdain\ldots
+\end{quote}
+\end{singlespace}
+
+\noindent The three textbooks use the mathematicians' \emph{we}, and
+are thus more Cartesian than Euclidean in outlook (at least, if the
+inclusive sense is understood).
+
+\subsection{Grammatical inclusivity}
+
+It is interesting to note that English does not distinguish between
+inclusive and exclusive \emph{we}\footnote{Inclusive \emph{we}
+  specifically includes the addressee while the exclusive form does
+  not}, so there is no grammatical way to detect whether the reader is
+included in the writer's utterances.  Such considerations can be
+important in political speech~\parencite{chen2006}.  Languages such as
+Te Reo M\={a}ori do maintain a distinction between inclusive and
+exclusive forms (the words are t\={a}tau and m\={a}tau respectively),
+so perhaps M\={a}ori textbooks would afford some insight here.
+
+
+\section{Conclusions}
+
+Metaphor is an unavoidable component of exposition used in statistics
+textbooks.  Three statistics textbooks were chosen for detailed study
+and their use of metaphor seemed to be broadly similar.
+
+Metaphors such as the mathemticians' \dquote{we} and the basic
+metaphor of infinity were frequent.  These metaphors were not
+discipline-specific to statistics.  Discipline-specific metaphors
+included the basic metaphor of infinity used to illustrate the central
+limit theorem.
