@@ -1,1 +1,1 @@
-# thesis
+# thesis: "Metaphors we teach by"
