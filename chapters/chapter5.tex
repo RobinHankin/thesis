@@ -4,7 +4,7 @@
   mathematics from what we find in texts and curricula? A study of
   navigation based on the standard manuals would tell us very little
   indeed about how the task was actually accomplished on the bridge of
-  a large ship.  \qauthor{\mycite{madden2001}}
+  a large ship.  \qauthor{\mycite[page 1185]{madden2001}}
 \end{savequote}
 \end{singlespace}
 
@@ -44,25 +44,27 @@ language to be widely and effectively deployed.
 Three textbooks were chosen for detailed study:
 
 \begin{itemize}
-\item \mycite{casella2001}
 \item \mycite{crawley2015}
 \item \mycite{feller1968}
+\item \mycite{casella2001}
 \end{itemize}
 
 These books span a range of
-sophistication---\citeauthor{casella2001}\footnote{It is standard
-  practice to refer to textbooks by the author(s) name} is classified
-as high-end undergraduate or mid-range postgraduate study material;
-\citeauthor{feller1968} is a classic work, emphasizing rigour, while
-\citeauthor{crawley2015} is practitioner-oriented, heavy on
-computational examples and light on mathematical detail.
+sophistication---\citeauthor{crawley2015}
 
-However, none of these books appeared to use metaphor at all or at
-most very very sparingly.  The \mycite{pragglejaz2007} protocol, applied
-to the texts, revealed that metaphor (in the sense of
-\mycite{lakoff1980}) was rare to nonexistent.  This is perhaps not
-surprising in such a mathematical context where accuracy is more
-highly valued than clarity or even educational value.
+\footnote{It is standard practice to refer to textbooks by the
+  author(s) name.} is practitioner-oriented, heavy on computational
+examples and light on mathematical detail.  \citeauthor{casella2001}
+is classified as high-end undergraduate or mid-range postgraduate
+study material; while \citeauthor{feller1968} is a classic work,
+emphasizing rigour.  These are books that I use in my own teaching and
+broadly correspond to first, second and third year courses.
+
+The \mycite{pragglejaz2007} protocol, applied to these three texts,
+revealed that metaphor (in the sense of \mycite{lakoff1980}) was rare
+to nonexistent.  This is perhaps not surprising in such a mathematical
+context where accuracy is more highly valued than clarity or even
+educational value.
 
 There was, however, one non-literal usage of language that occurred
 frequently throughout all three books: the mathematician's \emph{we},
@@ -87,11 +89,10 @@ when~$E$ is uncountably infinite (one prominent example would
 be~$\mathbb{R}$, the real numbers; one would hope that such
 definitions do not let one down in such a practically important case).
 
-The influential {\em Khan Academy}~\parencite{khan2016} is one of many
-introductions to inferential statistics that discusses random
-variables from a more practical perspective.  While declining to offer
-a formal definition, \citeauthor{khan2016} does give several examples,
-the canonical one being
+\citeauthor{2015} is one of many introductions to inferential
+statistics that discusses random variables from a more practical
+perspective.  While declining to offer a formal definition, several
+examples are given, the canonical one being
 
 \[
 X = \begin{cases}
@@ -100,9 +101,8 @@ X = \begin{cases}
 \end{cases}
 \]
 
-\noindent\citeauthor{khan2016} goes on to state that, 
-together with the specification that~$p(X=0) = p(X=1)=1/2$ fully
-characterizes~$X$.
+\noindent\citeauthor{crawley2015} goes on to state that, together with
+the specification that~$p(X=0) = p(X=1)=1/2$ fully characterizes~$X$.
 
 Undergraduate statistics textbooks typically offer a level of rigour
 between these two extremes.  To what extent do linguistic or cognitive
@@ -136,12 +136,11 @@ authors make a case for even such fundamental branches of mathematics
 as axiomatic set theory being metaphorical: for example, the authors
 point out that the conceptual metaphor \conmet{sets are containers and
   elements objects in them} is purely metaphorical, yet almost
-universally used when thinking about set membership.
-
-Notions such as the number line are also held to be metaphorical:
-natural numbers are not points on a line; counting (enumeration) is
-not temporal progression along a marked rod; sets are not containers
-with elements objects inside them.
+universally used when thinking about set membership.  Notions such as
+the number line are also held to be metaphorical: \wmcf points out
+that natural numbers are not points on a line; counting (enumeration)
+is not temporal progression along a marked rod; sets are not
+containers with elements objects inside them.
 
 \wmcf makes a case, echoing that of~\mycite{lakoff1980}, for many if not
 all such metaphors to be rooted in sensory-motor experience.  Here the
@@ -151,11 +150,7 @@ an end and an ultimate result.  Motivating examples are discussed,
 including the one-point compactification of the plane, limits of
 sequences, and mathematical induction.
 
-Below I will discuss the relevance of the \bmi to my own teaching,
-specifically the limiting behaviour of the binomial distribution to
-the Poisson.
-
-It should be pointed out that the book has come under severe criticism
+It should be pointed out that \wmcf has come under severe criticism
 and indeed the ideas have been met with little interest among
 mathematicians.  The authors do not put forward any empirical support
 whatsoever~\parencite{madden2001} for their assertions about the ways
@@ -174,11 +169,10 @@ Indeed, many reviewers point to the \dquote{rather frequent}
 mathematical errors~\parencite{gold2001}; at many points in the book,
 metaphorical reasoning is invoked to explain mathematical cognitive
 phenomena, yet a slightly more sophisticated analysis would show an
-appropriate mathematical framework.
-
-Nevertheless, as the authors point out, cognitive mathematics is a
-sorely neglected field of study; and the book provides a coherent
-account of cognition's role in mathematics.
+appropriate mathematical framework.  Nevertheless, as the authors
+point out, cognitive mathematics is a sorely neglected field of study;
+and the book provides a coherent account of cognition's role in
+mathematics.
 
 Other aspects of the book are unsatisfactory.  \mycite{goldin2001}, for
 example, considers the book to be \dquote{fundamentally flawed} on the
@@ -224,10 +218,10 @@ compactness in Hilbert spaces and completeness of $p$-adic numbers.
 
 From an undergraduate statistics education perspective, the \bmi is
 used when considering convergence of random variables.  The example I
-will discuss is drawn from the spoken lectures discussed in
-Chapter~\ref{chapter5}: the elementary observation that the Poisson
-distribution is a limiting case of the binomial.  The formal statement
-I am expressing is as follows: \\ \\
+will use is the same topic as discussed in the spoken lectures
+discussed in Chapter~\ref{chapter5}: the elementary observation that
+the Poisson distribution is a limiting case of the binomial.  The
+formal statement I am expressing is as follows: \\ \\
 
 {\bf Theorem.}  if~$X_n\sim\operatorname{Bin}\left({n,r/n}\right)$
 assuming~$0\leqslant r\leqslant n$, then
@@ -264,10 +258,11 @@ rhetorical devices as part of their communication
 strategy~\citep{kane1970}.  One such rhetorical device is the use of
 \emph{we} which is metaphorical in the sense that the writer is not
 using literal language: the reader is identified with a poorly-defined
-\dquote{community of practice}, of which the writer is one (perhaps
-pre-eminent) example.
+\dquote{community of practice}, of which the writer of the textbook is
+one example.  Observe that the author of any textbook would serve as a
+pre-eminent member of such a community.
 
-\citeauthor{pimm1984} asserts that textbooks' use of \emph{we}
+\cite{pimm1984} asserts that textbooks' use of \emph{we}
 attempts to \dquote{enrol the tacit acquiescence of the reader}, and
 serves as an imposition which fails to take into account the wishes or
 interests of participating individuals.
@@ -333,11 +328,11 @@ so perhaps M\={a}ori textbooks would afford some insight here.
 \section{Conclusions}
 
 Metaphor is an unavoidable component of exposition used in statistics
-textbooks.  Three statistics textbooks were chosen for detailed study
-and their use of metaphor seemed to be broadly similar.
+textbooks.  Three statistics textbooks, used in my own teaching, were
+chosen for detailed analysis of metaphorical language using the
+\citeauthor{pragglejaz2007} procedure.
 
-Metaphors such as the mathemticians' \dquote{we} and the basic
-metaphor of infinity were frequent.  These metaphors were not
-discipline-specific to statistics.  Discipline-specific metaphors
-included the basic metaphor of infinity used to illustrate the central
-limit theorem.
+Metaphor was rare in all three textbooks, with the exception of the
+basic metaphor of infinity, and the mathematicians' \dquote{we}, which
+is not specific to statistics.
+
