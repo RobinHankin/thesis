@@ -3,6 +3,7 @@ DIR=chapters
 all: main.pdf
 
 main.bbl: metaphor.bib
+	pdflatex main
 	biber main
 
 main.pdf: main.tex main.bbl metaphor.bib $(DIR)/chapter1.tex  $(DIR)/chapter2.tex $(DIR)/chapter3.tex $(DIR)/chapter4.tex $(DIR)/chapter5.tex $(DIR)/chapter6.tex $(DIR)/chapter7.tex 
